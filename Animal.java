@@ -1,5 +1,5 @@
 public class Animal {
-    String name;
+    String name5;
 
     Animal(String name) {
         this.name = name;
